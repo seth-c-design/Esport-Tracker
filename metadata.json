@@ -1,0 +1,5 @@
+{
+  "name": "Esports Player Tracker",
+  "description": "An application to track your favorite esports players, view their upcoming match schedules, and receive push notifications when they are about to play. Player data is sourced in real-time using Gemini.",
+  "requestFramePermissions": []
+}
